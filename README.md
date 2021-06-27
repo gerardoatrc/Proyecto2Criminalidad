@@ -1,0 +1,1 @@
+# Proyecto2Criminalidad, para poder hacer uso del codigo plasmado es necesario descargar el archivo csv de https://datos.cdmx.gob.mx/dataset/carpetas-de-investigacion-fgj-de-la-ciudad-de-mexico/resource/48fcb848-220c-4af0-839b-4fd8ac812c0f
